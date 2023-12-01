@@ -1,0 +1,10 @@
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\bin\Release\DesktopOrganize.exe.config
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\bin\Release\DesktopOrganize.exe
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\bin\Release\DesktopOrganize.pdb
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\obj\Release\DesktopOrganize.csproj.AssemblyReference.cache
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\obj\Release\DesktopOrganize.Form1.resources
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\obj\Release\DesktopOrganize.Properties.Resources.resources
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\obj\Release\DesktopOrganize.csproj.GenerateResource.cache
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\obj\Release\DesktopOrganize.csproj.CoreCompileInputs.cache
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\obj\Release\DesktopOrganize.exe
+C:\Users\vlama\source\repos\DesktopOrganize\DesktopOrganize\obj\Release\DesktopOrganize.pdb
